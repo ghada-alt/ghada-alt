@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c and js
 - 💞️ I’m looking to collaborate on learning more
-- 📫 How to reach me by email
+- 📫 How to reach me by email(jdoit5842@gmail.com
 
 <!---
 ghada-alt/ghada-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
